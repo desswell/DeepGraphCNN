@@ -3,6 +3,10 @@
 
 Все делается на основе статьи Large-Scale Hierarchical Text Classification with Recursively Regularized Deep Graph-CNN / Hao Peng | [github](https://github.com/HKUST-KnowComp/DeepGraphCNNforTexts)
 
+Схема алгоритма:
+<img width="1014" alt="Screenshot 2025-02-24 at 00 04 54" src="https://github.com/user-attachments/assets/f9ecfef2-ada0-4dad-a2c5-92831f538904" />
+
+
 Разработка разбита на несколько этапов:
 
 - Преобразование текста в графы (Done)
